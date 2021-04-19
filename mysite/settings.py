@@ -107,6 +107,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # https://docs.djangoproject.com/en/3.1/topics/i18n/
 
 LANGUAGE_CODE = 'en-us'
+# ko-kr 옵션 넣었을 시 동작이 되지 않음
 
 TIME_ZONE = 'Asia/Seoul'
 
